@@ -1,4 +1,4 @@
-# setting up instructions for Google Compute Engine
+# Setting up instructions for Google Compute Engine
 
 ### install git 
 git clone https://github.com/pbhatnagar3/Intro_to_ML/
